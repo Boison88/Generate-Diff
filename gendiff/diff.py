@@ -1,4 +1,5 @@
-import json, itertools
+import json
+import itertools
 
 
 def generate_diff(file_path1, file_path2):
