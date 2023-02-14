@@ -5,6 +5,6 @@
 
 ### Python CI status  
 
-[![Python CI](https://github.com/Boison88/python-project-50/actions/workflows/pyci.yml/badge.svg)]
+![Python CI](https://github.com/Boison88/python-project-50/actions/workflows/pyci.yml/badge.svg)
 
 <a href="https://asciinema.org/a/556873" target="_blank"><img src="https://asciinema.org/a/556873.svg" /></a>
