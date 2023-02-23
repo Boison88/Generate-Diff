@@ -1,6 +1,9 @@
+import json
+import itertools
 from gendiff.json_parser import convert_json
 from gendiff.yaml_parser import convert_yaml
 from gendiff.parser import parse
+from gendiff.stylish import format
 
 
 def generate_diff(file_path1, file_path2):
@@ -9,7 +12,5 @@ def generate_diff(file_path1, file_path2):
     else:
         file1, file2 = convert_yaml(file_path1, file_path2)
 
-    lines = parse(file1, file2)
-    lines.insert(0, '{')
-    lines.append('}')
-    return '\n'.join(lines)
+    difference_dictionary = parse(file1, file2)
+    return format(difference_dictionary)
