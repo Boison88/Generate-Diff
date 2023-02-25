@@ -1,7 +1,7 @@
 from gendiff.json_parser import convert_json
 from gendiff.yaml_parser import convert_yaml
 from gendiff.parser import parse
-from gendiff.formater import stylish
+from gendiff.formatters.stylish import stylish
 
 
 def generate_diff(file_path1, file_path2, format=stylish):
