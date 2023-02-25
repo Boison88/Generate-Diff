@@ -39,8 +39,8 @@ def test_gendiff_nested_yaml():
 
 
 def test_gendiff_plain():
-    file1_path = '.tests/fixtures/file1.json'
-    file2_path = '.tests/fixtures/file2.json'
+    file1_path = '.tests/fixtures/file1_tree.json'
+    file2_path = '.tests/fixtures/file2_tree.json'
     result = generate_diff(file1_path, file2_path, format=plain)
     output = open('.tests/fixtures/result_plain.txt')
 

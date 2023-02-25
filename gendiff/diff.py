@@ -2,6 +2,7 @@ from gendiff.json_parser import convert_json
 from gendiff.yaml_parser import convert_yaml
 from gendiff.parser import parse
 from gendiff.formatters.stylish import stylish
+from gendiff.formatters.plain import plain
 
 
 def generate_diff(file_path1, file_path2, format=stylish):
@@ -11,4 +12,6 @@ def generate_diff(file_path1, file_path2, format=stylish):
         file1, file2 = convert_yaml(file_path1, file_path2)
 
     difference_dictionary = parse(file1, file2)
+    if format == 'plain':
+        return plain(difference_dictionary)
     return format(difference_dictionary)
