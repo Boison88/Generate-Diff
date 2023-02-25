@@ -8,6 +8,10 @@
 ![Python CI](https://github.com/Boison88/python-project-50/actions/workflows/pyci.yml/badge.svg)
 
 
+Comparison of flat files JSON (format=plain)  
+<a href="https://asciinema.org/a/562814" target="_blank"><img src="https://asciinema.org/a/562814.svg" /></a>
+
+
 Comparison of nested files JSON and YAML  
 <a href="https://asciinema.org/a/562775" target="_blank"><img src="https://asciinema.org/a/562775.svg" /></a>
 
