@@ -8,17 +8,17 @@
 ![Python CI](https://github.com/Boison88/python-project-50/actions/workflows/pyci.yml/badge.svg)
 
 
-Comparison of flat files JSON (format=plain)  
+Comparison of two files in plain format  
 <a href="https://asciinema.org/a/562814" target="_blank"><img src="https://asciinema.org/a/562814.svg" /></a>
 
 
-Comparison of nested files JSON and YAML  
+Comparison of two nested files  
 <a href="https://asciinema.org/a/562775" target="_blank"><img src="https://asciinema.org/a/562775.svg" /></a>
 
 
-Comparison of flat files JSON and YAML
+Comparison of two files JSON and YAML  
 <a href="https://asciinema.org/a/560387" target="_blank"><img src="https://asciinema.org/a/560387.svg" /></a>
 
 
-Comparison of flat files JSON  
+Comparison of two files JSON  
 <a href="https://asciinema.org/a/556873" target="_blank"><img src="https://asciinema.org/a/556873.svg" /></a>
