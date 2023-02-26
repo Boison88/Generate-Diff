@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Boison88/python-project-50/workflows/hexlet-check/badge.svg)](https://github.com/Boison88/python-project-50/actions)
-<a href="https://codeclimate.com/github/Boison88/python-project-50/maintainability"><img src="https://api.codeclimate.com/v1/badges/f3a5c2d5285b2e03bc99/maintainability" /></a>
-<a href="https://codeclimate.com/github/Boison88/python-project-50/test_coverage"><img src="https://api.codeclimate.com/v1/badges/f3a5c2d5285b2e03bc99/test_coverage" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/f3a5c2d5285b2e03bc99/maintainability)](https://codeclimate.com/github/Boison88/python-project-50/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f3a5c2d5285b2e03bc99/test_coverage)](https://codeclimate.com/github/Boison88/python-project-50/test_coverage)
 
 ### Python CI status  
 
