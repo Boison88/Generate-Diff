@@ -8,6 +8,10 @@
 ![Python CI](https://github.com/Boison88/python-project-50/actions/workflows/pyci.yml/badge.svg)
 
 
+Comparison of two files in json format  
+<a href="https://asciinema.org/a/563084" target="_blank"><img src="https://asciinema.org/a/563084.svg" /></a>
+
+
 Comparison of two files in plain format  
 <a href="https://asciinema.org/a/562814" target="_blank"><img src="https://asciinema.org/a/562814.svg" /></a>
 
