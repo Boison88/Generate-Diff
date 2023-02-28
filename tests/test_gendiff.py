@@ -9,7 +9,6 @@ from tests import get_full_path
     ('file1_tree.json', 'file2_tree.json', 'result_nested.txt'),
     ('file1_tree.yaml', 'file2_tree.yaml', 'result_nested.txt')
 ])
-
 def test_generate_diff(input1, input2, expected):
     file1, file2 = map(get_full_path, (input1, input2))
     result = generate_diff(file1, file2)

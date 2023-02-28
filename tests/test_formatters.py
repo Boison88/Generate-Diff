@@ -18,6 +18,7 @@ def test_generate_diff_in_plain_format(input1, input2, format, expected):
     with open(f'{get_full_path(expected)}') as expected_file:
         assert result == expected_file.read()
 
+
 @pytest.mark.parametrize('input1, input2, format', [
     ('file1_tree.json', 'file2_tree.json', 'json'),
     ('file1_tree.yaml', 'file2_tree.yaml', 'json')
