@@ -29,4 +29,4 @@ jobs:
           coverageCommand: poetry run pytest --cov --cov-report lcov
           coverageLocations: ${{github.workspace}}/*.lcov:lcov
       - name: Build and install package
-        run: make package
+        run: make package-install
