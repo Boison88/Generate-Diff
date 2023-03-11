@@ -5,7 +5,8 @@
 [![Python CI](https://github.com/Boison88/python-project-50/actions/workflows/pyci.yml/badge.svg)](https://github.com/Boison88/python-project-50/actions/workflows/pyci.yml)
 
 
-**Generate diff** is a program that finds the differences between two data structures.  
+This repository was created as part of a [Hexlet study project](https://ru.hexlet.io/programs/python/projects/50).  
+*Generate diff* is a program that finds the differences between two data structures.  
 
 ***
 ### How to install  
@@ -16,9 +17,10 @@ cd python-project-50/
 make install
 ```
 
+***
 ### How to use  
-Use command **gendiff** and specify pathes to files
----
+Use command *gendiff* and specify pathes to files
+***
 
 Comparison of two files in json format  
 <a href="https://asciinema.org/a/563084" target="_blank"><img src="https://asciinema.org/a/563084.svg" /></a>
