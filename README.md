@@ -17,10 +17,10 @@ cd python-project-50/
 make install
 ```
 
-***
+---
 ### How to use  
-Use command *gendiff* and specify pathes to files
-***
+Use command *gendiff* and specify pathes to files.
+---
 
 Comparison of two files in json format  
 <a href="https://asciinema.org/a/563084" target="_blank"><img src="https://asciinema.org/a/563084.svg" /></a>
