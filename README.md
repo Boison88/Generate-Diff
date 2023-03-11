@@ -21,7 +21,7 @@ make install
 ### How to use  
 Use command *gendiff* and specify pathes to files.  
 
--
+---
 ### Examples of work  
 
 Comparison of two files in json format  
