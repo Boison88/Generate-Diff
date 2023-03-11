@@ -17,7 +17,7 @@ cd python-project-50/
 make install
 ```
 
----
+
 ### How to use  
 Use command *gendiff* and specify pathes to files.
 ---
