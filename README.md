@@ -1,4 +1,4 @@
-### Study project #2 — «Generate Diff»
+## Study project #2 — «Generate Diff»
 [![Actions Status](https://github.com/Boison88/python-project-50/workflows/hexlet-check/badge.svg)](https://github.com/Boison88/python-project-50/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f3a5c2d5285b2e03bc99/maintainability)](https://codeclimate.com/github/Boison88/python-project-50/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f3a5c2d5285b2e03bc99/test_coverage)](https://codeclimate.com/github/Boison88/python-project-50/test_coverage)
@@ -22,7 +22,6 @@ make install
 Use command *gendiff* and specify pathes to files.
 
 
-***
 ### Examples of work  
 
 Comparison of two files in json format  
