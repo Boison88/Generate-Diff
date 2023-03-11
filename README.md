@@ -8,7 +8,7 @@
 **Generate diff** is a program that finds the differences between two data structures.  
 
 ###How to install
-````
+```
 git clone git@github.com:Boison88/python-project-50.git
 cd python-project-50/
 # install poetry
