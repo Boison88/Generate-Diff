@@ -22,6 +22,9 @@ make install
 Use command *gendiff* and specify pathes to files.
 
 
+***
+### Examples of work  
+
 Comparison of two files in json format  
 <a href="https://asciinema.org/a/563084" target="_blank"><img src="https://asciinema.org/a/563084.svg" /></a>
 
