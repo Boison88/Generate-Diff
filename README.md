@@ -7,7 +7,8 @@
 
 **Generate diff** is a program that finds the differences between two data structures.  
 
-###How to install
+***
+### How to install  
 ```
 git clone git@github.com:Boison88/python-project-50.git
 cd python-project-50/
@@ -15,8 +16,9 @@ cd python-project-50/
 make install
 ```
 
-###How to use
+### How to use  
 Use command **gendiff** and specify pathes to files
+---
 
 Comparison of two files in json format  
 <a href="https://asciinema.org/a/563084" target="_blank"><img src="https://asciinema.org/a/563084.svg" /></a>
