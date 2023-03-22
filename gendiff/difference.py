@@ -20,8 +20,8 @@ def build_diff_tree(content1, content2):
                 'status': 'unchanged',
                 'value': content1.get(key)
             }
-        elif (isinstance(content1.get(key), dict) and
-                isinstance(content2.get(key), dict)):
+        elif isinstance(content1.get(key), dict) \
+                and isinstance(content2.get(key), dict):
             diff_tree[key] = {
                 'status': 'nested',
                 'value': build_diff_tree(content1.get(key), content2.get(key))
