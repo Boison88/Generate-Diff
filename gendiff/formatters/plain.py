@@ -22,9 +22,8 @@ def plain(difference_dict, path=''):
 
         if status == 'added':
             value = to_str(value)
-            phrase = ' was added with value: '
             lines.append(
-                f"Property '{path + key}'{phrase}{value}"
+                f"Property '{path + key}' was added with value: {value}"
             )
 
         elif status == 'deleted':

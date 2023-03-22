@@ -13,7 +13,7 @@ This repository was created as part of a [Hexlet study project](https://ru.hexle
 ```
 git clone git@github.com:Boison88/python-project-50.git
 cd python-project-50/
-# install poetry
+install poetry
 make install
 ```
 
