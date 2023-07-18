@@ -10,11 +10,21 @@ This repository was created as part of a [Hexlet study project](https://ru.hexle
 
 ***
 ### How to install  
+#### 1. Clone this repository:
 ```
-git clone git@github.com:Boison88/python-project-50.git
-cd python-project-50/
-install poetry
-make install
+    git clone https://github.com/Boison88/Generate-Diff.git
+```
+#### 2. Change Directory:
+```
+    cd python-project-50
+```
+#### 3. Install poetry:
+```
+    install poetry
+```
+#### 4. Install gendiff using make-command
+```
+    make install
 ```
 
 
