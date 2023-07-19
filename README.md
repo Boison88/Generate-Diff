@@ -18,14 +18,11 @@ This repository was created as part of a [Hexlet study project](https://ru.hexle
 ```
     cd python-project-50
 ```
-#### 3. Install poetry:
-```
-    install poetry
-```
-#### 4. Install gendiff using make-command
+#### 3. Install poetry using make-command:
 ```
     make install
 ```
+
 
 
 ### How to use  
