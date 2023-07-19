@@ -16,7 +16,7 @@ This repository was created as part of a [Hexlet study project](https://ru.hexle
 ```
 #### 2. Change Directory:
 ```
-    cd python-project-50
+    cd Generate-Diff
 ```
 #### 3. Install poetry using make-command:
 ```
